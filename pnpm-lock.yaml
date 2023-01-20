@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@nuxt-themes/alpine': ^1.0.1
+  '@nuxt-themes/alpine': ^1.0.2
   nuxt: ^3.0.0
 
 devDependencies:
-  '@nuxt-themes/alpine': 1.0.1
+  '@nuxt-themes/alpine': 1.0.2
   nuxt: 3.0.0
 
 packages:
@@ -341,10 +341,6 @@ packages:
     dev: true
     optional: true
 
-  /@fontsource/inter/4.5.14:
-    resolution: {integrity: sha512-JDC9AocdPLuGsASkvWw9hS5gtHE7K9dOwL98XLrk5yjYqxy4uVnScG58NUvFMJDVJRl/7c8Wnap6PEs+7Zvj1Q==}
-    dev: true
-
   /@iconify/types/2.0.0:
     resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
     dev: true
@@ -452,10 +448,9 @@ packages:
       fastq: 1.15.0
     dev: true
 
-  /@nuxt-themes/alpine/1.0.1:
-    resolution: {integrity: sha512-zmTEDzHQnzXaEktSPNOYmem0FNyVFYUvGMAfpU7fSp/UchtcKVE0yp7nmeg0QBIPAGxWxn3mBB+8Yze2TvaaWg==}
+  /@nuxt-themes/alpine/1.0.2:
+    resolution: {integrity: sha512-QlgFq+mMxfw9RMO1V9ouPYLavJlV9uTt12F5Qku3CJJpsiM7WvAWS4Wfyyuh/iFsJiVxqW1o/zjMKtvdyeGUfg==}
     dependencies:
-      '@fontsource/inter': 4.5.14
       '@nuxt-themes/elements': 0.4.4
       '@nuxt-themes/tokens': 1.5.3
       '@nuxt-themes/typography': 0.4.0
