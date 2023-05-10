@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "nuxt": "3.3.3",
-    "@nuxt-themes/alpine": "^1.5.0"
+    "@nuxt-themes/alpine": "^1.5.1"
   }
 }
